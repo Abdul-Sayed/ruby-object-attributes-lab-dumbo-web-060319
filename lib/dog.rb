@@ -1,12 +1,12 @@
  
 class  Dog   
       
-  # setter method
+  # setter/writer method
   def name=(name)
     @name = name
   end  
   
-  #getter method
+  #getter/reader method
   def name 
     @name
   end
